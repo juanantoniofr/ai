@@ -79,3 +79,8 @@ The following technologies may appear in this repository:
 - When suggesting code or experiments, consider that this is for learning purposes - explanations are valuable
 - Suggest best practices but acknowledge that experimental code may not follow production standards
 - Be prepared to work with various AI/ML frameworks as they are explored
+
+## External reference
+
+This repository uses examples and materials from the following course:
+https://github.com/https-deeplearning-ai/sc-gemini-cli-files/tree/main

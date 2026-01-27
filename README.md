@@ -24,6 +24,28 @@ El repositorio incluirá, entre otros:
 
 ---
 
+
+## 📚 Documentación (`/docs`)
+
+La carpeta **`docs/`** contiene documentación complementaria relacionada con mi proceso de aprendizaje en ML e IA. Su propósito es centralizar recursos, referencias externas y notas que acompañan a las pruebas de concepto y experimentos del repositorio.
+
+### Contenido actual de `docs/`
+- **`references.md`** → Archivo que recoge enlaces y recursos externos relevantes.  
+  Actualmente incluye:
+  - Referencia al material del curso *Gemini CLI* de DeepLearning.AI:  
+    https://github.com/https-deeplearning-ai/sc-gemini-cli-files/tree/main
+
+### Contenido previsto
+A medida que avance el proyecto, la carpeta `docs/` podrá incluir:
+
+- Resúmenes de temas estudiados (teoría de ML/IA)
+- Guías de uso de herramientas o librerías
+- Comparativas de modelos o frameworks
+- Esquemas de arquitectura para futuros proyectos
+- Notas técnicas y prácticas de MLOps
+- Enlaces a recursos externos relevantes
+
+
 ## 🧰 Tecnologías y herramientas
 Algunas de las herramientas y tecnologías que podrán aparecer:
 
