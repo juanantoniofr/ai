@@ -1,0 +1,11 @@
+{
+  "model": "XGBoost",
+  "auc": 1.0,
+  "features": [
+    "edad",
+    "antiguedad",
+    "incidencias",
+    "uso_medio",
+    "descuento"
+  ]
+}
