@@ -1,4 +1,4 @@
-# Exploración de Machine Learning e Inteligencia Artificial
+# Explorando Machine Learning e Inteligencia Artificial
 
 Este repositorio recopila todo mi viaje de aprendizaje por el mundo del **Machine Learning (ML)** y la **Inteligencia Artificial (IA)**.  
 Aquí encontrarás experimentos, pruebas de concepto, ejemplos prácticos, uso de herramientas y cualquier recurso interesante que vaya descubriendo mientras profundizo en esta disciplina.
